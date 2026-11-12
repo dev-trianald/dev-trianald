@@ -8,12 +8,12 @@
 
 - 🎓 He completado el **Grado Medio en Sistemas Microinformáticos y Redes (SMR)**, lo que me dio una base muy sólida en hardware, redes y administración de sistemas operativos.
 - 🚀 Actualmente estoy cursando el **2º año del Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)**.
-- 💻 Estoy enfocado en el desarrollo y la creación de aplicaciones móviles y de escritorio.
+- 💻 Estoy enfocada en el desarrollo y la creación de aplicaciones móviles y de escritorio.
 - 🌱 Actualmente aprendiendo y profundizando en arquitecturas de software, bases de datos y buenas prácticas de código.
 
 ## 🛠️ Tecnologías y Herramientas
 
-A lo largo de mi formación en SMR y DAM, he trabajado con diversas tecnologías. Estas son algunas de mis herramientas del día a día:
+A lo largo de mi formación en SMR y DAM, he trabajado con diversas tecnologías. Estas son algunas de mis herramientas en las que me he formado a lo largo de estos años:
 
 **Desarrollo Backend y Cloud:**
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
